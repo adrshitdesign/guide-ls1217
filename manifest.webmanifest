@@ -1,0 +1,30 @@
+{
+  "name": "Coudre avec la LS-1217",
+  "short_name": "LS-1217",
+  "description": "Guide pas à pas pour débuter sur la machine à coudre Brother LS-1217.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E9ECE7",
+  "theme_color": "#E9ECE7",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
